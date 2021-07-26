@@ -5,23 +5,21 @@
       "nameMain": "Jenifer Knox",
       "priceMain": "$1,794.87",
       "aboutMain": "In incididunt culpa dolore ipsum sit pariatur elit non nostrud aute nulla. Aliquip esse sint commodo magna culpa nulla aute quis excepteur ipsum. Aliqua officia est do proident officia. Laborum deserunt exercitation reprehenderit tempor est anim velit incididunt officia do occaecat anim eu qui. Duis proident amet aliqua proident incididunt cillum proident eu pariatur. Quis labore minim officia nisi tempor eu exercitation labore ex incididunt aliqua nostrud. Dolore eiusmod veniam aliqua nisi cupidatat laborum officia velit tempor deserunt.\r\n",
-      "adds": [
+      "adds": 
         {
-          "nameAdd": "Ella",
-          "priceAdd": "$1,523.98",
-          "aboutAdd": "Consectetur ex enim culpa tempor in Lorem ex eiusmod do sit aliquip sit veniam. Laborum duis proident aliqua consequat exercitation eu sunt ipsum. Consequat laboris est enim officia.\r\n"
-        },
-        {
-          "nameAdd": "Rutledge",
-          "priceAdd": "$2,545.98",
-          "aboutAdd": "Dolore commodo et eiusmod esse velit veniam do commodo eu tempor cillum. Id ea labore ut et sunt non ea. Consequat Lorem adipisicing sit in ea enim id deserunt. Eiusmod cillum exercitation sunt sint adipisicing. Ipsum ut elit cillum ullamco elit quis enim occaecat incididunt est excepteur.\r\n"
-        },
-        {
-          "nameAdd": "Hurst",
-          "priceAdd": "$1,524.41",
-          "aboutAdd": "Lorem ad amet sit magna dolore magna ipsum sunt deserunt reprehenderit. Nostrud fugiat dolor aute irure elit. Sunt eu enim do irure esse proident dolor duis sunt velit. Eiusmod anim fugiat irure nisi eu sunt fugiat anim sint.\r\n"
+          "nameAdd1": "Ella",
+          "priceAdd1": "$1,523.98",
+          "aboutAdd1": "Consectetur ex enim culpa tempor in Lorem ex eiusmod do sit aliquip sit veniam. Laborum duis proident aliqua consequat exercitation eu sunt ipsum. Consequat laboris est enim officia.\r\n",
+
+          "nameAdd2": "Rutledge",
+          "priceAdd2": "$2,545.98",
+          "aboutAdd2": "Dolore commodo et eiusmod esse velit veniam do commodo eu tempor cillum. Id ea labore ut et sunt non ea. Consequat Lorem adipisicing sit in ea enim id deserunt. Eiusmod cillum exercitation sunt sint adipisicing. Ipsum ut elit cillum ullamco elit quis enim occaecat incididunt est excepteur.\r\n",
+
+          "nameAdd3": "Hurst",
+          "priceAdd3": "$1,524.41",
+          "aboutAdd3": "Lorem ad amet sit magna dolore magna ipsum sunt deserunt reprehenderit. Nostrud fugiat dolor aute irure elit. Sunt eu enim do irure esse proident dolor duis sunt velit. Eiusmod anim fugiat irure nisi eu sunt fugiat anim sint.\r\n"
         }
-      ]
+      
     },
     {
       "isActive": false,
