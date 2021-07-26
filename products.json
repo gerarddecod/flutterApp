@@ -5,113 +5,85 @@
       "nameMain": "Jenifer Knox",
       "priceMain": "$1,794.87",
       "aboutMain": "In incididunt culpa dolore ipsum sit pariatur elit non nostrud aute nulla. Aliquip esse sint commodo magna culpa nulla aute quis excepteur ipsum. Aliqua officia est do proident officia. Laborum deserunt exercitation reprehenderit tempor est anim velit incididunt officia do occaecat anim eu qui. Duis proident amet aliqua proident incididunt cillum proident eu pariatur. Quis labore minim officia nisi tempor eu exercitation labore ex incididunt aliqua nostrud. Dolore eiusmod veniam aliqua nisi cupidatat laborum officia velit tempor deserunt.\r\n",
-      "adds": 
-        {
-          "nameAdd1": "Ella",
-          "priceAdd1": "$1,523.98",
-          "aboutAdd1": "Consectetur ex enim culpa tempor in Lorem ex eiusmod do sit aliquip sit veniam. Laborum duis proident aliqua consequat exercitation eu sunt ipsum. Consequat laboris est enim officia.\r\n",
-
-          "nameAdd2": "Rutledge",
-          "priceAdd2": "$2,545.98",
-          "aboutAdd2": "Dolore commodo et eiusmod esse velit veniam do commodo eu tempor cillum. Id ea labore ut et sunt non ea. Consequat Lorem adipisicing sit in ea enim id deserunt. Eiusmod cillum exercitation sunt sint adipisicing. Ipsum ut elit cillum ullamco elit quis enim occaecat incididunt est excepteur.\r\n",
-
-          "nameAdd3": "Hurst",
-          "priceAdd3": "$1,524.41",
-          "aboutAdd3": "Lorem ad amet sit magna dolore magna ipsum sunt deserunt reprehenderit. Nostrud fugiat dolor aute irure elit. Sunt eu enim do irure esse proident dolor duis sunt velit. Eiusmod anim fugiat irure nisi eu sunt fugiat anim sint.\r\n"
-        }
-      
+      "adds": {
+        "nameAdd1": "Ella",
+        "priceAdd1": "$1,523.98",
+        "aboutAdd1": "Consectetur ex enim culpa tempor in Lorem ex eiusmod do sit aliquip sit veniam. Laborum duis proident aliqua consequat exercitation eu sunt ipsum. Consequat laboris est enim officia.\r\n",
+        "nameAdd2": "Rutledge",
+        "priceAdd2": "$2,545.98",
+        "aboutAdd2": "Dolore commodo et eiusmod esse velit veniam do commodo eu tempor cillum. Id ea labore ut et sunt non ea. Consequat Lorem adipisicing sit in ea enim id deserunt. Eiusmod cillum exercitation sunt sint adipisicing. Ipsum ut elit cillum ullamco elit quis enim occaecat incididunt est excepteur.\r\n",
+        "nameAdd3": "Hurst",
+        "priceAdd3": "$1,524.41",
+        "aboutAdd3": "Lorem ad amet sit magna dolore magna ipsum sunt deserunt reprehenderit. Nostrud fugiat dolor aute irure elit. Sunt eu enim do irure esse proident dolor duis sunt velit. Eiusmod anim fugiat irure nisi eu sunt fugiat anim sint.\r\n"
+      }
     },
     {
       "isActive": false,
       "nameMain": "Snyder Sharpe",
       "priceMain": "$2,417.11",
       "aboutMain": "Laborum do exercitation duis est. Elit est officia ipsum aliquip cillum ipsum. Ullamco ex anim officia excepteur elit irure eu sunt et magna est nulla consectetur.\r\n",
-      "adds": [
-        {
-          "nameAdd": "Sheena",
-          "priceAdd": "$2,493.50",
-          "aboutAdd": "Elit aute veniam sint quis dolor culpa eiusmod tempor officia eu laboris incididunt commodo. Magna nisi reprehenderit eu commodo magna tempor proident. Proident eu labore sint eiusmod laboris. Sint amet irure excepteur aliqua et.\r\n"
-        },
-        {
-          "nameAdd": "Oneil",
-          "priceAdd": "$1,554.83",
-          "aboutAdd": "Et laborum laborum cillum duis sunt labore ipsum quis enim quis excepteur aute nisi. Velit pariatur proident officia cillum dolor cillum fugiat in. Eiusmod voluptate aliquip amet adipisicing anim occaecat commodo. Aliquip commodo consectetur commodo tempor velit fugiat dolore cupidatat occaecat irure Lorem. Excepteur mollit aute in commodo amet cillum minim aute veniam anim.\r\n"
-        },
-        {
-          "nameAdd": "Campbell",
-          "priceAdd": "$3,904.73",
-          "aboutAdd": "Nulla commodo ex pariatur excepteur id sit excepteur deserunt fugiat esse ex quis do reprehenderit. Mollit nulla sunt voluptate nostrud mollit voluptate incididunt commodo esse nulla nostrud est. Elit sunt ullamco duis excepteur velit ullamco.\r\n"
-        }
-      ]
+      "adds": {
+        "nameAdd1": "Ella",
+        "priceAdd1": "$1,523.98",
+        "aboutAdd1": "Consectetur ex enim culpa tempor in Lorem ex eiusmod do sit aliquip sit veniam. Laborum duis proident aliqua consequat exercitation eu sunt ipsum. Consequat laboris est enim officia.\r\n",
+        "nameAdd2": "Rutledge",
+        "priceAdd2": "$2,545.98",
+        "aboutAdd2": "Dolore commodo et eiusmod esse velit veniam do commodo eu tempor cillum. Id ea labore ut et sunt non ea. Consequat Lorem adipisicing sit in ea enim id deserunt. Eiusmod cillum exercitation sunt sint adipisicing. Ipsum ut elit cillum ullamco elit quis enim occaecat incididunt est excepteur.\r\n",
+        "nameAdd3": "Hurst",
+        "priceAdd3": "$1,524.41",
+        "aboutAdd3": "Lorem ad amet sit magna dolore magna ipsum sunt deserunt reprehenderit. Nostrud fugiat dolor aute irure elit. Sunt eu enim do irure esse proident dolor duis sunt velit. Eiusmod anim fugiat irure nisi eu sunt fugiat anim sint.\r\n"
+      }
     },
     {
       "isActive": false,
       "nameMain": "Alyssa Sandoval",
       "priceMain": "$1,466.75",
       "aboutMain": "Anim ex duis tempor consequat fugiat esse. Nostrud pariatur nisi sint ullamco et pariatur mollit. Ut est in amet ad aliqua amet proident dolor elit sint anim. Sit irure cupidatat magna in cupidatat sint ipsum esse quis amet.\r\n",
-      "adds": [
-        {
-          "nameAdd": "Mitzi",
-          "priceAdd": "$2,982.72",
-          "aboutAdd": "Esse sit adipisicing pariatur do duis laborum nostrud ad. Enim amet cupidatat amet dolor proident dolor pariatur cupidatat ipsum reprehenderit aliquip nulla. Reprehenderit aliqua nulla in officia aliqua reprehenderit ipsum est non occaecat sint. Aliqua non non ad enim incididunt fugiat do quis magna ex nostrud. Est ad anim ullamco amet proident eu commodo sint nisi tempor ut sit labore. Magna incididunt sunt sunt velit ullamco proident Lorem culpa sunt sint adipisicing labore Lorem officia. Excepteur laborum magna amet sint Lorem irure est quis sunt deserunt excepteur pariatur incididunt incididunt.\r\n"
-        },
-        {
-          "nameAdd": "Kimberley",
-          "priceAdd": "$1,843.44",
-          "aboutAdd": "Fugiat tempor aute tempor ad in labore voluptate id. Irure duis Lorem ipsum anim amet. Fugiat aliqua enim quis labore occaecat voluptate cillum non ex ea ea in. Minim duis enim est occaecat tempor esse velit do ex. Mollit occaecat consequat culpa adipisicing sit nulla laboris et velit Lorem amet sint reprehenderit.\r\n"
-        },
-        {
-          "nameAdd": "Claudia",
-          "priceAdd": "$2,663.57",
-          "aboutAdd": "Cillum velit esse ex consequat aliqua veniam magna sunt reprehenderit est aliquip. Esse laborum proident voluptate veniam incididunt labore dolor. Velit voluptate proident proident labore aliqua id est. Nulla nisi ea quis sint sunt. Culpa commodo labore elit eiusmod. Anim non aliquip proident reprehenderit incididunt voluptate ad irure non. Ad aliqua ut consectetur culpa.\r\n"
-        }
-      ]
+      "adds": {
+        "nameAdd1": "Ella",
+        "priceAdd1": "$1,523.98",
+        "aboutAdd1": "Consectetur ex enim culpa tempor in Lorem ex eiusmod do sit aliquip sit veniam. Laborum duis proident aliqua consequat exercitation eu sunt ipsum. Consequat laboris est enim officia.\r\n",
+        "nameAdd2": "Rutledge",
+        "priceAdd2": "$2,545.98",
+        "aboutAdd2": "Dolore commodo et eiusmod esse velit veniam do commodo eu tempor cillum. Id ea labore ut et sunt non ea. Consequat Lorem adipisicing sit in ea enim id deserunt. Eiusmod cillum exercitation sunt sint adipisicing. Ipsum ut elit cillum ullamco elit quis enim occaecat incididunt est excepteur.\r\n",
+        "nameAdd3": "Hurst",
+        "priceAdd3": "$1,524.41",
+        "aboutAdd3": "Lorem ad amet sit magna dolore magna ipsum sunt deserunt reprehenderit. Nostrud fugiat dolor aute irure elit. Sunt eu enim do irure esse proident dolor duis sunt velit. Eiusmod anim fugiat irure nisi eu sunt fugiat anim sint.\r\n"
+      }
     },
     {
       "isActive": true,
       "nameMain": "Drake Buchanan",
       "priceMain": "$2,389.74",
       "aboutMain": "Consectetur dolor Lorem ex dolor adipisicing. Veniam do consectetur sit aliqua commodo consequat labore mollit esse consequat. Do amet laboris nostrud velit fugiat occaecat reprehenderit proident dolor non ea proident. Ex ut minim cupidatat deserunt. Veniam exercitation cillum Lorem fugiat laborum laborum ut.\r\n",
-      "adds": [
-        {
-          "nameAdd": "Shelly",
-          "priceAdd": "$2,328.24",
-          "aboutAdd": "Sit ipsum excepteur incididunt ea elit. Duis magna consectetur non nostrud laboris proident consectetur mollit adipisicing. Do ad anim Lorem sunt. Fugiat Lorem exercitation sunt sint tempor mollit aliqua aliquip. Dolore et cillum magna dolore anim duis id et. Officia nulla laboris nulla consequat amet ad. Nostrud pariatur eiusmod occaecat ex nulla magna.\r\n"
-        },
-        {
-          "nameAdd": "Jordan",
-          "priceAdd": "$3,326.56",
-          "aboutAdd": "Adipisicing nulla exercitation pariatur deserunt laborum ut magna aliqua amet consequat. Minim cillum eu ea sunt ullamco ullamco aliqua amet occaecat. Dolore anim et duis aute labore aliqua Lorem. Cillum in ut cillum dolor nisi minim ad non amet culpa consequat ea veniam fugiat. Quis ea non aute non consequat sint velit. Magna amet nostrud labore ad duis ipsum ad sint Lorem excepteur do Lorem. Dolor aute veniam dolor in laborum magna pariatur deserunt sit sit.\r\n"
-        },
-        {
-          "nameAdd": "Bridgett",
-          "priceAdd": "$3,954.57",
-          "aboutAdd": "Minim excepteur cillum qui Lorem pariatur laboris. Magna veniam labore tempor ut officia. Labore deserunt duis commodo eiusmod proident. Dolor anim commodo qui et quis ullamco.\r\n"
-        }
-      ]
+      "adds": {
+        "nameAdd1": "Ella",
+        "priceAdd1": "$1,523.98",
+        "aboutAdd1": "Consectetur ex enim culpa tempor in Lorem ex eiusmod do sit aliquip sit veniam. Laborum duis proident aliqua consequat exercitation eu sunt ipsum. Consequat laboris est enim officia.\r\n",
+        "nameAdd2": "Rutledge",
+        "priceAdd2": "$2,545.98",
+        "aboutAdd2": "Dolore commodo et eiusmod esse velit veniam do commodo eu tempor cillum. Id ea labore ut et sunt non ea. Consequat Lorem adipisicing sit in ea enim id deserunt. Eiusmod cillum exercitation sunt sint adipisicing. Ipsum ut elit cillum ullamco elit quis enim occaecat incididunt est excepteur.\r\n",
+        "nameAdd3": "Hurst",
+        "priceAdd3": "$1,524.41",
+        "aboutAdd3": "Lorem ad amet sit magna dolore magna ipsum sunt deserunt reprehenderit. Nostrud fugiat dolor aute irure elit. Sunt eu enim do irure esse proident dolor duis sunt velit. Eiusmod anim fugiat irure nisi eu sunt fugiat anim sint.\r\n"
+      }
     },
     {
       "isActive": false,
       "nameMain": "Davenport Gill",
       "priceMain": "$1,149.31",
       "aboutMain": "Cillum labore labore Lorem proident in consequat minim id aute. Ad aliquip reprehenderit proident Lorem mollit aliqua ad sint proident qui incididunt minim. Voluptate cillum fugiat proident nisi commodo veniam irure magna duis incididunt reprehenderit sit id quis. Ut amet esse labore proident est duis. Elit do ex excepteur anim dolore cupidatat consequat commodo laboris pariatur consectetur.\r\n",
-      "adds": [
-        {
-          "nameAdd": "Jamie",
-          "priceAdd": "$2,587.41",
-          "aboutAdd": "Aute nostrud nisi do duis proident amet voluptate elit mollit ad irure sit consequat. Non esse id irure aliqua aliqua aute fugiat reprehenderit nisi. Ut ut consectetur magna mollit minim sunt dolor consequat labore labore fugiat dolor irure. Adipisicing aliquip ullamco cillum qui sit irure commodo adipisicing id et consectetur. Tempor fugiat et velit cupidatat qui sint eu velit. Cupidatat ipsum Lorem minim in et consequat est et.\r\n"
-        },
-        {
-          "nameAdd": "Edna",
-          "priceAdd": "$3,398.70",
-          "aboutAdd": "Anim excepteur ad magna anim dolor cupidatat. Voluptate sint proident occaecat laboris ex officia in ut eu proident velit minim. Eiusmod ut est nostrud sunt.\r\n"
-        },
-        {
-          "nameAdd": "Callahan",
-          "priceAdd": "$1,136.34",
-          "aboutAdd": "Nulla ut consequat adipisicing excepteur nisi labore nostrud duis. Nostrud deserunt voluptate nisi dolor. Dolore dolore aute adipisicing quis eiusmod cupidatat.\r\n"
-        }
-      ]
+      "adds": {
+        "nameAdd1": "Ella",
+        "priceAdd1": "$1,523.98",
+        "aboutAdd1": "Consectetur ex enim culpa tempor in Lorem ex eiusmod do sit aliquip sit veniam. Laborum duis proident aliqua consequat exercitation eu sunt ipsum. Consequat laboris est enim officia.\r\n",
+        "nameAdd2": "Rutledge",
+        "priceAdd2": "$2,545.98",
+        "aboutAdd2": "Dolore commodo et eiusmod esse velit veniam do commodo eu tempor cillum. Id ea labore ut et sunt non ea. Consequat Lorem adipisicing sit in ea enim id deserunt. Eiusmod cillum exercitation sunt sint adipisicing. Ipsum ut elit cillum ullamco elit quis enim occaecat incididunt est excepteur.\r\n",
+        "nameAdd3": "Hurst",
+        "priceAdd3": "$1,524.41",
+        "aboutAdd3": "Lorem ad amet sit magna dolore magna ipsum sunt deserunt reprehenderit. Nostrud fugiat dolor aute irure elit. Sunt eu enim do irure esse proident dolor duis sunt velit. Eiusmod anim fugiat irure nisi eu sunt fugiat anim sint.\r\n"
+      }
     }
   ]
 }
