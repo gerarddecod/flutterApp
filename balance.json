@@ -1,0 +1,16 @@
+{
+    "main": [
+      {
+        "updateDate": "10-06-2021",
+        "pendingBalance": "$3,702.70",
+        "payedBalance": "$1,815.12",
+        "totalBalance": "$2,119.80",
+        "givenServices": 9,
+        "last": {
+          "lastService1": "Durham",
+          "lastService2": "Lakisha",
+          "lastService3": "Jerry"
+        }
+      }
+    ]
+  }
